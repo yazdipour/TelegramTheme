@@ -1,6 +1,7 @@
 # BlueNightTheme
 Blue Night Theme for TelgramDesktop
 
+![alt tag](http://shahriar.in/blog/wp-content/uploads/Capture.png)
 
 ##Installation
 

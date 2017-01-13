@@ -1,5 +1,5 @@
 # BlueNightTheme
-Blue Night Theme for TelgramDesktop
+Blue Night Theme for Telegram Desktop
 
 ![alt tag](http://shahriar.in/blog/wp-content/uploads/Capture.png)
 

@@ -132,7 +132,7 @@ dialogsVerifiedIconBg: windowBgActive;
 dialogsVerifiedIconFg: windowFgActive;
 dialogsSendingIconFg: #eeeeee;
 dialogsSentIconFg: #eeeeee;
-dialogsUnreadBg: #D91E18;
+dialogsUnreadBg: #3498db;
 dialogsUnreadBgMuted: #ABB7B7;
 dialogsUnreadFg: windowFgActive;
 dialogsBgOver: windowBgOver;

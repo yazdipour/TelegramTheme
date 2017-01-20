@@ -9,6 +9,4 @@ Blue Night Theme for Telegram Desktop
 * Upload it to any chat.
 * Apply it by opening the file.
 
-##[License](https://github.com/yazdipour/BlueNightTheme/blob/master/LICENSE)
-
-BlueNightTheme is licensed by MIT License.
+Thanks https://github.com/MasterGroosha/telegram-soliddark-theme for original source

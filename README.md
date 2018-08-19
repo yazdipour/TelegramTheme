@@ -1,9 +1,9 @@
 # BlueNightTheme
 Blue Night Theme for Telegram Desktop
 
-![alt tag](http://shahriar.in/blog/wp-content/uploads/Capture.png)
+![alt tag](scrn.jpg)
 
-##Installation
+## Installation
 
 * Download latest build from releases.
 * Upload it to any chat.

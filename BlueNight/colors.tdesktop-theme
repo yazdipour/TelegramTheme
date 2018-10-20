@@ -1,8 +1,7 @@
-	//
-// Telegram Desktop Dark Theme
-// By Shahriar
-// http://shahriar.in
-//
+// ##############################################
+//   BlueNight tdesktop theme
+//   https://github.com/yazdipour/TelegramTheme
+// ##############################################
 
 windowBg: #333333;
 windowFg: #eeeeee;
